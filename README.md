@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jay Jiwanlal Rathi</h1>
+<h1 align="center">Hi 👋, I'm Jay Rathi</h1>
 <h3 align="center">BTech Computer Engineering Student | Learning DSA | Interested in Web Development & AI</h3>
 
 - 🔭 I’m currently working on **DSA projects and web development projects**
