@@ -1,16 +1,8 @@
 <h1 align="center">Hey 👋, I'm Jay Rathi</h1>
-<h3 align="center">🚀 Backend Developer | DSA Enthusiast | Building Scalable Systems</h3>
+<h3 align="center">🚀 Problem Solver | DSA Enthusiast | Building Scalable Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;DSA+Problem+Solver;Open+Source+Contributor;Building+Real+World+Projects&center=true&width=550&height=45">
-</p>
-
-<h3 align="center">
-⭐ From Jay Rathi — Open to Collaborations & Opportunities 🚀
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayrathi77&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Problem+Solver;DSA+Enthusiast;Open+Source+Contributor;Building+Real+World+Projects&center=true&width=550&height=45">
 </p>
 
 ---
@@ -38,14 +30,21 @@ C • C++ • Python • JavaScript • HTML • CSS
 ### ⚙️ Backend
 Node.js • Express.js • Flask • REST APIs  
 
-### 🗄️ Data Handling
-File Handling (Currently Used), MongoDB (Learning)  
+### 🗄️ Databases
+MongoDB • MySQL  
+
+### 📁 Data Handling
+File Handling (Currently Used)  
+
+### 🔧 Tools
+Git • Postman • Linux  
 
 ---
 
 ## 💼 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%">
@@ -71,49 +70,26 @@ File Handling (Currently Used), MongoDB (Learning)
 <td width="50%">
 
 <h3 align="center">
-<a href="#">🔍 PICT Lost and Found</a>
+<a href="YOUR_VOYAGEEDU_LINK">🌍 VoyageEdu</a>
 </h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb" />
 </p>
 
 <ul>
-<li>🔔 Email notifications using Nodemailer</li>
-<li>🔐 JWT authentication & role-based access</li>
-<li>📷 Image uploads with Multer</li>
-<li>🧑‍💼 Admin verification system</li>
+<li>🗺️ Interactive map to explore institutions across India</li>
+<li>🔍 Advanced search & filtering system</li>
+<li>📊 Side-by-side institution comparison</li>
+<li>✅ AISHE-based verification for authentic data</li>
+<li>💬 Inquiry system for contacting institutions</li>
+<li>📱 Fully responsive design</li>
 </ul>
 
 </td>
 
 </tr>
 
-<tr>
-
-<td width="50%">
-
-<h3 align="center">
-<a href="#">📄 PDF Analysis System</a>
-</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<ul>
-<li>🧠 Semantic search using FAISS</li>
-<li>🤖 Mistral LLM via Ollama API</li>
-<li>📊 Vector-based data extraction</li>
-<li>💬 Context-aware responses</li>
-</ul>
-
-</td>
-
-<td width="50%">
-</td>
-
-</tr>
 </table>
 
 ---
@@ -135,22 +111,26 @@ File Handling (Currently Used), MongoDB (Learning)
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/jay rathi" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://instagram.com/jayrathi_2106" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
-<a href="https://leetcode.com/jayrathi77" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40" />
-</a>
-</p>
 
-<p align="center">
-📫 <b>Email:</b> jayrathi122@gmail.com
+<a href="https://www.linkedin.com/in/jay-rathi-8128a036b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Jayrathi77/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/jayrathi77">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:jayrathi122@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -158,3 +138,13 @@ File Handling (Currently Used), MongoDB (Learning)
 ## ⚡ Fun Fact
 
 💻 I don’t just write code — I **optimize, scale, and engineer solutions**.
+
+---
+
+<h3 align="center">
+⭐ From Jay Rathi — Open to Collaborations & Opportunities 🚀
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jayrathi77&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
