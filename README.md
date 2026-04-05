@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Problem Solver | DSA Enthusiast | Building Scalable Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Problem+Solver;DSA+Enthusiast;Open+Source+Contributor;Building+Real+World+Projects&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Problem+Solver;DSA+Enthusiast;Building+Real+World+Projects&center=true&width=550&height=45">
 </p>
 
 ---
