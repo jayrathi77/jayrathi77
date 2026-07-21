@@ -24,7 +24,7 @@
 
 💻 Passionate about building scalable, secure, and user-friendly web applications
 
-📊 Learning **Data Science** while exploring AI-powered software solutions
+📊 Learning **Generative AI** while exploring AI-powered software solutions
 
 🚀 Building full-stack applications using **React, Node.js, Express.js, MongoDB, and MySQL**
 
