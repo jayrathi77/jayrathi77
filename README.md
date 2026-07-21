@@ -7,7 +7,7 @@
 ### 💻 Aspiring Full Stack Developer • 📊 Learning Generative AI  • 🚀 Building Scalable Web Applications
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Backend+Developer;React+%7C+Node.js+%7C+MongoDB;Learning+Data+Science;Building+Real-World+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Backend+Developer;React+%7C+Node.js+%7C+MongoDB;Learning+GEN+AI;Building+Real-World+Projects"/>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=jayrathi77&style=for-the-badge&color=0EA5E9"/>
