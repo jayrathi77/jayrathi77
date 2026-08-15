@@ -4,10 +4,23 @@
 
 # 👋 Hey, I'm Jay Rathi
 
-Aspiring AI Full Stack Developer and learning RAG,LLM,AGENTIC AI
+### 🚀 Aspiring Software Engineer | Backend & AI Enthusiast
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Backend+Developer;React+%7C+Node.js+%7C+MongoDB;Learning Data Science;Building+Real-World+Projects"/>
+Building real-world applications with
+<b>Node.js • Express.js • MongoDB • MySQL</b>
+</p>
+
+<p align="center">
+🤖 Exploring <b>RAG • LLMs • Agentic AI</b>
+&nbsp; • &nbsp;
+📊 Exploring <b>Data Science</b>
+&nbsp; • &nbsp;
+🧠 Strengthening <b>DSA</b>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Backend+Development;Full+Stack+Engineering;RAG+%7C+LLMs+%7C+Agentic+AI;Exploring+Data+Science;Building+Real-World+Projects;Always+Learning+%26+Building"/>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=jayrathi77&style=for-the-badge&color=0EA5E9"/>
@@ -22,35 +35,33 @@ Aspiring AI Full Stack Developer and learning RAG,LLM,AGENTIC AI
 
 🎓 Third-Year Computer Engineering Student at **Vishwakarma Institute of Technology, Pune**
 
-💻 Passionate about building scalable, secure, and user-friendly web applications
+💻 Passionate about building scalable, secure, and user-friendly software applications
 
-📊 Learning **Generative AI** while exploring AI-powered software solutions
+⚙️ Focused on **Backend Development, RESTful APIs, and Full-Stack Development**
 
-🚀 Building full-stack applications using **React, Node.js, Express.js, MongoDB, and MySQL**
+🤖 Exploring **RAG, LLMs, and Agentic AI** to build AI-powered applications
 
-🔍 Interested in Backend Development, REST APIs, System Design, and Cloud Technologies
+📊 Exploring **Data Science** and learning how to turn data into meaningful insights
 
-🤝 Open to collaborating on innovative open-source and software development projects
+🧠 Strengthening **Data Structures & Algorithms** through consistent problem-solving
 
-✨ Passionate about solving real-world problems through software engineering and continuous innovation.
+🚀 Building applications using **Node.js, Express.js, MongoDB, MySQL, and React**
+
+🤝 Open to collaborating on innovative software and open-source projects
 
 <br clear="right"/>
 
 ---
 
-# 💻 Tech Stack
-
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,sql"/>
-</p>
+# 💻 Skills
 
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
 </p>
+
+**React — Learning**
 
 ### Backend
 
@@ -58,19 +69,31 @@ Aspiring AI Full Stack Developer and learning RAG,LLM,AGENTIC AI
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
+**Node.js • Express.js • RESTful APIs**
+
 ### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-### 🛠️ Developer Tools & Platforms
+**MongoDB • MySQL**
+
+### Developer Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
+</p>
+
+### Currently Exploring
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
-
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+🤖 <b>RAG • LLMs • Agentic AI</b>
+&nbsp;&nbsp; • &nbsp;&nbsp;
+📊 <b>Data Science</b>
+&nbsp;&nbsp; • &nbsp;&nbsp;
+🧠 <b>Data Structures & Algorithms</b>
 
 </p>
 
@@ -82,72 +105,105 @@ Aspiring AI Full Stack Developer and learning RAG,LLM,AGENTIC AI
 
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-<h3 align="center">🌟 GitSense</h3>
+<h3 align="center">🚀 DevSpace</h3>
 
 <p align="center">
-AI-powered GitHub Profile Analyzer powered by Gemini AI.
+AI-Powered Project Collaboration & Knowledge Management Platform
 </p>
 
 ### ✨ Features
 
-- GitHub OAuth
-- Gemini AI
-- JWT Authentication
-- MongoDB Caching
-- Interactive Dashboard
-- Repository Analytics
+- 👥 Project & Team Management
+- 🔐 Authentication & Role-Based Access
+- 📋 Task Management
+- 📚 Project Knowledge Base
+- 🤖 RAG-Powered AI Assistant
+- 🧠 Gemini LLM Integration
+- 🔎 Qdrant Vector Database
+- 🐙 GitHub Integration
+- 📊 Analytics & Notifications
 
 **Tech Stack**
 
-React • Node.js • Express • MongoDB • Gemini AI
+React • Node.js • Express.js • MongoDB • Gemini • Qdrant
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 GitSense</h3>
+
+<p align="center">
+AI-Powered GitHub Profile & Repository Analyzer
+</p>
+
+### ✨ Features
+
+- 🐙 GitHub Profile Integration
+- 🤖 Gemini AI Analysis
+- 📊 Repository Analytics
+- ⭐ Developer Scoring
+- 🔐 JWT Authentication
+- ⚡ Smart Caching
+- 📈 Interactive Dashboard
+
+**Tech Stack**
+
+React • Node.js • Express.js • MongoDB • Gemini AI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 <h3 align="center">🌍 VoyageEdu</h3>
 
 <p align="center">
-AI-powered College Recommendation Platform.
+AI-Powered College Recommendation Platform
 </p>
 
 ### ✨ Features
 
-- MERN Stack
-- REST APIs
-- JWT Authentication
-- MongoDB
-- Advanced Search
-- Responsive UI
+- 🎓 College Discovery & Recommendation
+- 🗺️ Geospatial College Search
+- 🔍 Advanced Search & Filtering
+- 📊 College Information & Analytics
+- 🔐 JWT Authentication
+- 🌐 RESTful APIs
+- 📱 Responsive Interface
 
 **Tech Stack**
 
-React • Node.js • Express • MongoDB
+React • Node.js • Express.js • MongoDB • REST APIs
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-<h3 align="center">📋 Project Collaboration Tracker</h3>
+<h3 align="center">📚 Smart Notes & Book Barter</h3>
 
 <p align="center">
-Project Management & Team Collaboration Platform.
+Mobile App for Sharing Notes & Exchanging Books
 </p>
 
 ### ✨ Features
 
-- Task Assignment
-- Team Collaboration
-- Milestone Tracking
-- Authentication
-- REST APIs
-- MySQL Database
+- 📝 Create & Manage Notes
+- 📚 Book Listing & Barter
+- 🔄 Book Exchange
+- 👤 User Authentication
+- ☁️ Cloud Storage
+- 🔥 Firebase Integration
+- 📱 Mobile Application
 
 **Tech Stack**
 
-React • Node.js • Express • MySQL
+Flutter • Dart • Firebase
 
 </td>
 
@@ -157,45 +213,82 @@ React • Node.js • Express • MySQL
 
 ---
 
-# 🏅 Achievements & Certifications
+# 🏆 Achievements
 
 🥇 **Research Publication**  
-Accepted for **Oral Presentation** at **INCIP 2026 (IEEE Proceedings)** for the paper **VoyageEdu**.
+Accepted for **Oral Presentation at INCIP 2026 (IEEE Proceedings)** for *VoyageEdu*.
 
 🏅 **Gold Medal – Best Volunteer**  
-Recognized for outstanding contribution at the **Utkarsh Social Welfare Development (SWD)** event.
+Recognized for outstanding contribution at the **Utkarsh SWD Event**.
 
-💻 **HackerRank SQL Certification**  
-Demonstrated proficiency in SQL queries, joins, aggregations, subqueries, and database problem-solving.
-
-📊 **Power BI Certification**  
-Built interactive dashboards and transformed data into actionable business insights.
-
-📈 **Deloitte Data Analytics Simulation**  
-Completed a virtual job simulation focused on data analysis, business problem-solving, and dashboard development.
-
-🚀 **BlueBit Hackathon**  
-Participated in a team-based hackathon, designing and developing an innovative software solution.
+🏆 **LeetCode 50 Days Badge**  
+Consistent DSA problem-solving practice.
 
 ---
 
+# 📊 GitHub Activity
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jayrathi77&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayrathi77&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayrathi77&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧠 Currently Learning
+
+- 🔹 Backend Development & RESTful API Design
+- 🔹 Data Structures & Algorithms
+- 🔹 RAG & LLM Applications
+- 🔹 Agentic AI
+- 🔹 Data Science & Machine Learning
+- 🔹 System Design
+
+---
+
+# 💡 Developer Mindset
+
+<div align="center">
+
+### **Build → Break → Debug → Learn → Build Better**
+
+</div>
+
+I enjoy understanding how things work behind the scenes — from **APIs and databases** to **authentication, AI pipelines, and backend systems**.
+
+> 🎯 My goal is not just to use technologies, but to understand **why and how they work**.
+
+---
 
 # 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/jayrathi77" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/jay-rathi-8128a036b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/u/JayRathi77/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 <a href="mailto:jayrathi122@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
