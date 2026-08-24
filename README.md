@@ -20,7 +20,7 @@ Building real-world applications with
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Backend+Development;Full+Stack+Engineering;RAG+%7C+LLMs+%7C+Agentic+AI;Exploring+Data+Science;Building+Real-World+Projects;Always+Learning+%26+Building"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Backend+Development;Full+Stack+Developer;RAG+%7C+LLMs+%7C+Agentic+AI;Exploring+Data+Science;Building+Real-World+Projects;Always+Learning+%26+Building"/>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=jayrathi77&style=for-the-badge&color=0EA5E9"/>
