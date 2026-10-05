@@ -14,7 +14,7 @@ Building real-world applications with
 <p align="center">
 🤖 Exploring <b>RAG • LLMs • Agentic AI</b>
 &nbsp; • &nbsp;
-📊 Exploring <b>Data Science</b>
+📊 Exploring <b>AIML</b>
 &nbsp; • &nbsp;
 🧠 Strengthening <b>DSA</b>
 </p>
